@@ -1,1 +1,49 @@
 # Basic Machine Learning Pipeline and the Utilization of Pickle.
+
+Educative project about:
+- Machine Learning Pipeline
+- Utilization of Pickle
+
+## Project installation
+
+93.33% accuracy
+
+94.12% accuracy because we added more data to the dataset.
+
+
+```bash
+git clone https://github.com/iRuperth/machine_learning_pipeline.git
+cd ai-vs-human-detector
+pip install -r requirements.txt
+```
+
+To train the model, run:
+```bash
+cd model
+uv run python model/train_model.py
+```
+
+To run the API, run:
+```bash
+cd api
+uv run uvicorn api.main:app --reload
+```
+
+To test the API, run:
+```bash
+cd test
+uv run python test/prediction_test.py
+```
+
+
+Open Navigator
+```bash
+http://127.0.0.1:8000/docs
+```
+
+Request Example:
+```bash
+{
+    "text": "This is a structured generated explanation with formal tone"
+}
+```
