@@ -1,0 +1,851 @@
+text,label
+"Hola q tal como estas? espero q bien",0
+"Es un placer saludarle y ponerme a su disposición para cualquier consulta.",1
+"mañana nos vemos para el cafe no se te olvide",0
+"La implementación de modelos de lenguaje requiere una infraestructura robusta.",1
+"oye ya vistes lo que subio maria a insta? me muero",0
+"El análisis de datos masivos permite identificar patrones de comportamiento.",1
+"No se si boy a llegar a tiempo x el trafico de la mñana",0
+"Le informo que el reporte trimestral ha sido generado satisfactoriamente.",1
+"jajaja neta q no te creo nada de lo q me dises",0
+"La inteligencia artificial es una herramienta diseñada para optimizar procesos.",1
+"che avisame cuando llegues q me tenes preocupada",0
+"Es fundamental mantener una postura ética en el desarrollo tecnológico.",1
+"tengo un hambre q me comeria una vaca ahora mismo",0
+"El sistema operativo ha detectado una actualización crítica de seguridad.",1
+"wey me prestaras tu cargador? el mio se descompuso",0
+"La optimización de algoritmos mejora la eficiencia del procesamiento.",1
+"esta haciendo un calor de locos aqui afuera",0
+"Le sugiero revisar los términos y condiciones antes de proceder.",1
+"pienso que igual y si le falta sal a la comida pero bueh",0
+"El reconocimiento de patrones es una rama esencial del aprendizaje automático.",1
+"ola k ase? vas a ir a la fiesta d noche?",0
+"La arquitectura de microservicios facilita el escalado de aplicaciones.",1
+"me da flojera levantarme temprano los domingos",0
+"Los protocolos de comunicación aseguran la integridad de la información.",1
+"ni idea de dnd deje las llaves del coche",0
+"Usted puede acceder a su cuenta mediante el uso de sus credenciales.",1
+"ya valio madre se me cayo el cel al baño",0
+"El procesamiento de lenguaje natural ha evolucionado significativamente.",1
+"tonces que onda? vamos x las chelas o q?",0
+"La seguridad informática es una prioridad en la era digital actual.",1
+"creo q me boy a enfermar me duele la garganta",0
+"El despliegue de la red 5G impulsará la conectividad global.",1
+"me encanta esa cansion me pone de buenas",0
+"Se recomienda realizar una copia de seguridad de sus archivos locales.",1
+"perdon por no contestar taba bien dormido",0
+"La computación cuántica promete resolver problemas complejos en segundos.",1
+"sabes a que hora sierra el super hoy?",0
+"El aprendizaje supervisado utiliza datos etiquetados para el entrenamiento.",1
+"que onda perdí mi bus ahora tengo q caminar",0
+"El mantenimiento preventivo reduce los costos operativos a largo plazo.",1
+"siento q el tiempo se pasa volando cuando toy contigo",0
+"La interfaz de usuario ha sido rediseñada para mejorar la experiencia.",1
+"manda la ubi pq no se como llegar",0
+"El almacenamiento en la nube ofrece una disponibilidad del 99.9 por ciento.",1
+"ay no q horror lo q paso en el centro",0
+"La biometría es un método seguro para la autenticación de usuarios.",1
+"mañana empieso la dieta ahora si de veras",0
+"Es imperativo validar las entradas de usuario para evitar inyecciones de código.",1
+"tons q hacemos? estoy aburrido",0
+"La realidad aumentada superpone elementos digitales en el entorno físico.",1
+"me das una orden de pastor con mucha salsa porfa",0
+"El protocolo de transferencia de hipertexto es la base de la web.",1
+"neta q el profe se paso con la tarea",0
+"Las redes neuronales convolucionales son ideales para visión artificial.",1
+"ya mero llego esperame 5 min mas",0
+"La interoperabilidad entre sistemas es clave para la industria 4.0.",1
+"estoy cansado de tanto jale ya kiero vacaciones",0
+"El análisis predictivo ayuda a las empresas a tomar mejores decisiones.",1
+"vistes la peli nueva? esta bien chida",0
+"La transformación digital es un proceso continuo y necesario.",1
+"me saludas a tu mama cuando la veas",0
+"El uso de contenedores permite una mayor portabilidad del software.",1
+"no mames neta paso eso??",0
+"La verificación en dos pasos protege sus cuentas de accesos no autorizados.",1
+"esta lloviendo un buen mejor ni salgas",0
+"El aprendizaje por refuerzo se basa en un sistema de recompensas.",1
+"buenos dias a todos como amanecieron?",0
+"La latencia de la red afecta el rendimiento de las aplicaciones en tiempo real.",1
+"me duele un buen la espalda de estar sentado",0
+"El cifrado simétrico utiliza la misma clave para cifrar y descifrar.",1
+"ocupo q me pases el numero de juan",0
+"La inteligencia de negocios permite visualizar métricas clave de rendimiento.",1
+"que flojera hacer la tarea mejor mañana",0
+"Los sistemas expertos emulan el razonamiento de un especialista humano.",1
+"ya comistes? yo apenas voy a ver q hay",0
+"La virtualización de servidores optimiza el uso de los recursos físicos.",1
+"mi perro se comio mi tarea es en serio",0
+"El minado de datos extrae información valiosa de grandes bases de datos.",1
+"esta bn gacho el clima x aki",0
+"La robótica colaborativa permite la interacción segura entre humanos y máquinas.",1
+"tkm gracias x ayudarme siempre",0
+"El desarrollo ágil promueve la entrega continua de valor al cliente.",1
+"me kede sin pila avisale a mi jefe",0
+"La gestión de dependencias es crucial en proyectos de software modernos.",1
+"si ocupas algo me abisas va?",0
+"El reconocimiento facial utiliza algoritmos de geometría de rasgos.",1
+"no se q ponerme para la boda de mañana",0
+"La minería de procesos ayuda a optimizar los flujos de trabajo internos.",1
+"ya kiero q sea viernes x dios",0
+"El internet de las cosas conecta objetos cotidianos a la red.",1
+"vamonos q se hace tarde",0
+"La escalabilidad vertical implica aumentar los recursos de un solo nodo.",1
+"perdon se me olvido mandarte el mensaje",0
+"La computación en la niebla reduce la carga en los centros de datos.",1
+"te debo una por lo de ayer mil gracias",0
+"El procesamiento asíncrono mejora la capacidad de respuesta del sistema.",1
+"ya stoy aki afuera abre la puerta",0
+"La segmentación de imágenes divide una imagen en múltiples regiones.",1
+"tonces que? te vas a fresear o si vas?",0
+"El aprendizaje no supervisado encuentra estructuras ocultas en los datos.",1
+"Oye tío, ¿al final vienes al cumple o qué?",0
+"La implementación de sistemas embebidos requiere una gestión eficiente de la memoria.",1
+"Me piro ya al curro que llego tarde como siempre.",0
+"El análisis de regresión logística es fundamental en la estadística descriptiva.",1
+"¿Vale, entonces quedamos en la plaza a las ocho?",0
+"Se recomienda encarecidamente actualizar el firmware del dispositivo periódicamente.",1
+"Buff, estoy flipando con lo que me has contado de Javi.",0
+"La arquitectura de software orientada a servicios permite la reutilización de componentes.",1
+"Mañana voy a por el pan y de paso pillo unas cerves.",0
+"La ciberseguridad debe abordarse desde una perspectiva multidisciplinaria y proactiva.",1
+"No veas como mola el coche nuevo de mi primo, está chulísimo.",0
+"El procesamiento de señales digitales es clave para las comunicaciones inalámbricas.",1
+"Me e dejado las llaves dentro, me quiero morir.",0
+"Es imperativo realizar un análisis de riesgos antes de iniciar cualquier proyecto.",1
+"¿Te hace una caña esta tarde después de clase?",0
+"La inteligencia artificial generativa ha transformado la creación de contenido digital.",1
+"La verdá es que no tengo ni idea de que me estás hablando.",0
+"El protocolo de seguridad SSL asegura la confidencialidad de los datos transmitidos.",1
+"Venga va, no seas pesado y vente con nosotros.",0
+"La computación en la nube ofrece una infraestructura escalable para empresas modernas.",1
+"Joer, otra vez se a roto la lavadora, qué mala suerte.",0
+"El entrenamiento de redes neuronales profundas demanda una alta capacidad de cómputo.",1
+"He ido al médico y me a dicho que es solo un catarro.",0
+"La normalización de bases de datos evita la redundancia y mejora la integridad.",1
+"¿Quedamos para ver el partido en el bar de abajo?",0
+"El aprendizaje por refuerzo optimiza la toma de decisiones en entornos dinámicos.",1
+"Menudo marrón me ha caído hoy en la oficina.",0
+"La encriptación asimétrica utiliza un par de claves, una pública y otra privada.",1
+"Pásame el mando de la tele, que quiero ver las noticias.",0
+"El desarrollo ágil permite adaptarse rápidamente a los cambios en los requisitos.",1
+"Mira, yo paso de líos, que cada uno haga lo que quiera.",0
+"La segmentación de clientes es vital para el éxito de las campañas de marketing.",1
+"¿Te has enterado de lo de la huelga de metro de mañana?",0
+"El procesamiento por lotes es ideal para manejar grandes volúmenes de transacciones.",1
+"Me mola mazo tu chaqueta, ¿dónde te la has pillao?",0
+"La latencia es un factor determinante en la calidad de las videollamadas.",1
+"No me ralles con eso ahora, que estoy súper cansado.",0
+"La minería de datos permite extraer conocimiento útil de bases de datos complejas.",1
+"E quedado con Marta para ir al cine, ¿te apuntas?",0
+"La validación de datos de entrada previene ataques de inyección de código SQL.",1
+"Tío, no encuentro el ticket de compra por ningún lao.",0
+"El despliegue de microservicios facilita la actualización individual de funciones.",1
+"Vaya tela con el calor que hace hoy en Madrid.",0
+"Se requiere una conexión a internet estable para sincronizar los archivos.",1
+"Me voy a echar la siesta que no puedo con mi alma.",0
+"La virtualización de red optimiza el uso de los recursos de hardware disponibles.",1
+"Oye, ¿has visto mis gafas? No las encuentro por ninguna parte.",0
+"El reconocimiento de voz utiliza modelos probabilísticos para mejorar la precisión.",1
+"Mañana empiezo el gim, que ya toca ponerse en forma.",0
+"La interoperabilidad técnica garantiza la comunicación entre plataformas distintas.",1
+"¿Me dejas diez euros para el bus? Mañana te los devuelvo sin falta.",0
+"El balanceo de carga distribuye el tráfico web de manera uniforme.",1
+"Me ha dao un coraje lo que ha dicho el jefe...",0
+"La realidad mixta combina elementos de la realidad virtual y la aumentada.",1
+"Pfff, que pereza me da ponerme a estudiar ahora.",0
+"El análisis de sentimientos en redes sociales es una herramienta de marketing potente.",1
+"Venga tía, no te rayes por eso que no tiene importancia.",0
+"La computación cuántica utiliza cúbits para realizar cálculos en paralelo.",1
+"Estoy hasta el moño de este ordenador, va súper lento.",0
+"La gestión de activos digitales requiere un sistema de indexación eficiente.",1
+"¿Nos tomamos un café y me cuentas qué tal todo?",0
+"El protocolo TCP garantiza la entrega de paquetes de datos en el orden correcto.",1
+"Me a dicho Juan que al final no viene, una pena.",0
+"La automatización robótica de procesos sustituye tareas manuales repetitivas.",1
+"Vaya pedazo de gol ha metido el Madrid ayer, ¿lo vistes?",0
+"La inteligencia de negocios ayuda a las organizaciones a tomar decisiones basadas en datos.",1
+"No se si boy a poder ir a la cena del sábado.",0
+"El cifrado de extremo a extremo protege la privacidad de los usuarios finales.",1
+"¡Que fuerte! No me esperaba eso para nada.",0
+"El desarrollo de software seguro debe incluir pruebas de penetración constantes.",1
+"Mañana voy a por los resultados del análisis.",0
+"La arquitectura de Von Neumann es la base de la mayoría de computadoras actuales.",1
+"Oye, pásame el número de teléfono de tu hermano.",0
+"La computación de alto rendimiento es esencial para la investigación científica.",1
+"Me da que esto va a salir mal, no me fío un pelo.",0
+"El uso de API permite la integración de diferentes servicios de terceros.",1
+"¿Te apetece ir a cenar un kebab después de la fiesta?",0
+"La optimización para motores de búsqueda mejora la visibilidad de los sitios web.",1
+"Estoy flipando con los precios de los alquileres hoy en día.",0
+"El procesamiento de lenguaje natural permite traducir textos en tiempo real.",1
+"¡Venga ya! No me jodas que ha pasado eso.",0
+"La autenticación multifactor es una medida de seguridad altamente recomendada.",1
+"Me voy de vacaciones el lunes y no he hecho la maleta.",0
+"La infraestructura como código permite automatizar el despliegue de servidores.",1
+"¿Qué tal te va todo por allí? Hace mucho que no hablamos.",0
+"El aprendizaje no supervisado agrupa datos sin etiquetas previas.",1
+"Madre mía, qué jaleo hay montado en el centro.",0
+"La ingeniería social es una técnica común utilizada en ataques de phishing.",1
+"Me a salido un grano en la nariz que parece un volcán.",0
+"El diseño de interfaces debe priorizar la accesibilidad para todos los usuarios.",1
+"¿A qué hora empieza la peli? No quiero llegar tarde.",0
+"La cadena de bloques asegura la inmutabilidad de los registros de transacciones.",1
+"Buff, tengo un sueño que no me lamo.",0
+"La computación en el borde reduce el ancho de banda necesario en la red.",1
+"Pásame la sal, porfa, que esto está soso.",0
+"El análisis predictivo se utiliza para prevenir fallos en la maquinaria industrial.",1
+"¡Hostia! Se me ha olvidado llamar a mi madre por su cumple.",0
+"La gestión de versiones con Git facilita el trabajo colaborativo en equipo.",1
+"Ya te digo, es que no tiene ni pies ni cabeza.",0
+"La inteligencia artificial ética busca evitar sesgos algorítmicos discriminatorios.",1
+"Oye, ¿te vienes luego de cañas por Malasaña?",0
+"El sistema de archivos distribuido permite el acceso concurrente a los datos.",1
+"Me piro al sobre que mañana madrugo un montón.",0
+"La optimización de consultas SQL reduce el tiempo de respuesta del servidor.",1
+"Vaya movida hubo ayer en el metro, estaba todo petao.",0
+"El aprendizaje profundo se basa en múltiples capas de abstracción de datos.",1
+"¿Has visto lo que a dicho el jefe? Es que es para flipar.",0
+"La arquitectura de microservicios mejora la resiliencia de la plataforma.",1
+"Tío, no encuentro el cargador por ningún lao, ¿me lo dejas?",0
+"Se requiere autenticación de doble factor para realizar esta operación.",1
+"Me mola mazo el nuevo disco de ese grupo, es la caña.",0
+"La computación cuántica utiliza la superposición para procesar información.",1
+"Ayer fuimos de tardeo y se nos fue de las manos la cosa.",0
+"El protocolo TLS garantiza la privacidad en la comunicación cliente-servidor.",1
+"No veas que sueño tengo, anoche no pegue ojo.",0
+"La inteligencia artificial puede identificar anomalías en el tráfico de red.",1
+"¿Vale, entonces quedamos en la puerta del Sol a las seis?",0
+"El despliegue de contenedores Docker facilita la portabilidad del software.",1
+"Joer, me a vuelto a pillar el toro con la entrega del trabajo.",0
+"La normalización de datos es un paso previo al análisis estadístico.",1
+"He pillado unas entradas para el cine, ¿te apuntas o q?",0
+"La infraestructura como código permite una gestión escalable de servidores.",1
+"La verdá es que no me apetece nada salir hoy, hace un frio de locos.",0
+"El procesamiento de lenguaje natural analiza la sintaxis y la semántica.",1
+"Menudo marrón me han encasquetao en el curro, no veas.",0
+"La redundancia de hardware minimiza el riesgo de puntos de fallo únicos.",1
+"Pfff, que pereza me da ir al gimnasio con la que esta cayendo.",0
+"La criptografía asimétrica es la base de las firmas digitales seguras.",1
+"¿Te hace un kebab rápido antes de ir a casa?",0
+"Los algoritmos de ordenación optimizan la gestión de grandes listas.",1
+"Me e dejado el paraguas en el bus, soy un desastre.",0
+"La virtualización permite ejecutar sistemas operativos de forma aislada.",1
+"Mira chaval, yo ya paso de decirle nada mas pq no escucha.",0
+"El análisis de sentimientos utiliza léxicos para clasificar emociones.",1
+"¿Sabes si abren el Mercadona hoy por ser festivo?",0
+"La latencia de red es crítica para las aplicaciones de trading financiero.",1
+"Hostia, se me a olvidado por completo que habiamos quedao.",0
+"El reconocimiento de patrones es fundamental en la visión por computador.",1
+"Vaya chufa de pelicula, nos salimos a la mitad del cine.",0
+"La minería de datos descubre relaciones no triviales en grandes volúmenes.",1
+"E quedado con la peña para ir a la sierra el finde.",0
+"El desarrollo ágil fomenta la colaboración continua con el cliente.",1
+"¿Me pasas el contacto del fontanero? Es que tengo una gotera.",0
+"La ciberseguridad industrial protege infraestructuras críticas del país.",1
+"No ralles mas con eso, que ya sabemos que la has liao.",0
+"El almacenamiento de objetos es ideal para datos no estructurados.",1
+"Me voy a por un pincho de tortilla que tengo un hambre canina.",0
+"La interfaz de programación de aplicaciones define las reglas de interacción.",1
+"Venga tía, no te rayes que ese tío no vale la pena.",0
+"El balanceo de carga garantiza la alta disponibilidad de los servicios.",1
+"Mañana me paso por tu casa y te doy lo tuyo, vale?",0
+"La computación en la nube reduce los costes operativos de mantenimiento.",1
+"Que guay que hayas venido, no te esperaba tan pronto.",0
+"El cifrado AES-256 es el estándar actual para la protección de datos.",1
+"Me duele la rabadilla de estar todo el dia sentado en la oficina.",0
+"La robótica colaborativa integra sensores de seguridad para humanos.",1
+"¿Vistes el partido de anoche? Menudo robo nos hicieron.",0
+"El aprendizaje no supervisado agrupa elementos por similitud estadística.",1
+"Me boy a comprar el pan, ¿quieres algo mas?",0
+"La transformación digital implica un cambio cultural en las empresas.",1
+"Jajaja que bueno el video que as pasao por el grupo.",0
+"El protocolo BGP es el encargado de gestionar las rutas en internet.",1
+"Tengo un jaleo de papeles en la mesa que no veas.",0
+"La segmentación de red previene el movimiento lateral de atacantes.",1
+"Oye, dile a tu hermano que me devuelva la play ya.",0
+"El análisis predictivo ayuda a reducir el abandono de clientes.",1
+"Me e puesto como un kiko en la cena de navidad.",0
+"La biometría facial es un método eficaz de control de acceso.",1
+"Buah, que pasada el concierto de ayer, flipe en colores.",0
+"La gestión de dependencias asegura la estabilidad del entorno de desarrollo.",1
+"No se si boy a llegar a tiempo x el trafico en la M-30.",0
+"El internet de las cosas conecta sensores directamente a la red.",1
+"Me das un poco de agua? Es q me pica la garganta mazo.",0
+"La realidad aumentada superpone datos sobre la visión del mundo real.",1
+"Vaya tela con la que esta callendo fuera, que tormenton.",0
+"El aprendizaje por refuerzo maximiza una función de recompensa escalar.",1
+"Pásame el mando de la consola que te voy a dar una paliza.",0
+"La escalabilidad horizontal permite añadir nodos al clúster de base de datos.",1
+"Me e quedao sin bateria en medio de la calle, que putada.",0
+"El procesamiento asíncrono permite manejar múltiples peticiones a la vez.",1
+"¿Te apetece un helado ahora que hace bueno?",0
+"La verificación formal de software garantiza la ausencia de errores lógicos.",1
+"No me digas mas que me conozco la historia de memoria.",0
+"La red neuronal recurrente es adecuada para el análisis de series temporales.",1
+"Menudo tute de viaje nos hemos pegao, estoy reventao.",0
+"La tokenización de activos financieros mejora la liquidez del mercado.",1
+"Me mola mazo el rollo que lleva esa chica.",0
+"El sistema de nombres de dominio traduce nombres a direcciones IP.",1
+"Voy a ver si me echo un rato que me duele la cabeza.",0
+"La inteligencia de negocios utiliza cuadros de mando para monitorizar KPI.",1
+"¿A que hora empieza el hormiguero hoy?",0
+"El protocolo MQTT es ampliamente utilizado en dispositivos de baja potencia.",1
+"Me e comprado una bici nueva para ir al curro.",0
+"La minería de procesos identifica cuellos de botella en los flujos de trabajo.",1
+"Vaya chollazo he pillado en las rebajas del centro.",0
+"La arquitectura sin servidor permite ejecutar código sin gestionar servidores.",1
+"Dile a tu madre que me pase la receta de las croquetas.",0
+"El aprendizaje supervisado requiere un conjunto de datos bien etiquetado.",1
+"Mañana nos vemos en el bar de siempre, no faltes.",0
+"La criptografía de clave pública es esencial para el protocolo HTTPS.",1
+"Oye tío, le dije a Juan que viniera pero no me ha hecho ni caso.",0
+"La recursividad es un concepto fundamental en la programación funcional.",1
+"mañana te paso el apunte de clase que ahora no lo tengo a mano.",0
+"El protocolo de transferencia de hipertexto asegura la entrega de recursos web.",1
+"Vaya tela con el examen, me ha salido fatal, no doy una.",0
+"La arquitectura de redes neuronales profundas permite el aprendizaje de rasgos jerárquicos.",1
+"¿Te hace un tardeo hoy por el centro? Que hace sol.",0
+"Es necesario configurar los permisos de lectura y escritura en el servidor.",1
+"la verdá es que no sé para qué me esfuerzo tanto.",0
+"El análisis de componentes principales reduce la dimensionalidad de un conjunto de datos.",1
+"Me piro al curro, que entre el metro y el tráfico llego tardísimo.",0
+"La computación en la nube facilita el despliegue de infraestructuras escalables.",1
+"Hostia, ¡qué guay verte por aquí! ¿Cuánto tiempo, no?",0
+"El algoritmo de aprendizaje por refuerzo busca maximizar la recompensa acumulada.",1
+"Pásame la ubi por el grupo que si no me pierdo fijo.",0
+"La integridad de los datos se garantiza mediante funciones de hash criptográfico.",1
+"esta tarde no cuentes conmigo que tengo un lío de cojones.",0
+"La virtualización de contenedores optimiza el uso de recursos del sistema operativo.",1
+"No veas cómo mola el nuevo garito que han abierto en mi barrio.",0
+"El procesamiento de lenguaje natural incluye tareas de etiquetado gramatical.",1
+"He pillao una oferta de locos para ir a las Canarias en verano.",0
+"La memoria caché mejora el rendimiento al almacenar datos de acceso frecuente.",1
+"Joer, es que siempre me pasa lo mismo por ir con prisas.",0
+"El desarrollo orientado a objetos utiliza clases y herencia para organizar el código.",1
+"¿Vale, entonces quedamos en que yo llevo las bebidas?",0
+"La latencia de red es un factor crítico en el desarrollo de videojuegos online.",1
+"me parece a mí que esto no va a funcionar ni de coña.",0
+"La encriptación de extremo a extremo protege la comunicación entre usuarios.",1
+"Vaya pedazo de móvil se ha comprado mi hermana, qué envidia.",0
+"El balanceador de carga distribuye las peticiones entre múltiples servidores.",1
+"Tío, no encuentro las llaves, me estoy rayando mazo.",0
+"La inteligencia artificial generativa puede producir contenido visual altamente realista.",1
+"Mañana voy a Madriz a ver a mis primos, qué ganas.",0
+"Se recomienda realizar copias de seguridad incrementales de forma periódica.",1
+"si no me contestas ahora ya no voy, aviso.",0
+"El paradigma de programación reactiva se basa en el flujo de datos asíncrono.",1
+"No ralles más con el tema, que ya está todo dicho.",0
+"La segmentación de clientes permite personalizar las campañas de marketing directo.",1
+"E quedado con la peña para ir de cañas al salir de clase.",0
+"El reconocimiento facial utiliza vectores de características para la identificación.",1
+"Buff, estoy reventao de tanto estudiar, no me entra nada más.",0
+"La arquitectura de microservicios permite el escalado independiente de componentes.",1
+"¿Te vienes a ver el partido al bar de abajo? Invito yo.",0
+"El almacenamiento distribuido garantiza la disponibilidad de los archivos en la red.",1
+"no se si boy a poder terminar el informe para mañana.",0
+"La optimización de motores de búsqueda es vital para el tráfico orgánico.",1
+"Venga va, no seas rancio y vente un rato aunque sea.",0
+"El despliegue continuo automatiza la entrega de software a producción.",1
+"Me mola mazo el rollo que lleva ese grupo de música.",0
+"La normalización de la base de datos previene la redundancia de información.",1
+"Oye, ¿has visto mis gafas? Es que no las veo por ningún lao.",0
+"El aprendizaje no supervisado identifica estructuras ocultas en los datos crudos.",1
+"la universidá está cada vez más difícil, no sé qué hacer.",0
+"La computación cuántica utiliza cúbits para superar los límites de la clásica.",1
+"Vaya chufa de concierto, se escuchaba fatal desde atrás.",0
+"La autenticación de dos factores añade una capa de seguridad imprescindible.",1
+"Me e dejado el cargador en tu casa, ¿me lo guardas?",0
+"El procesamiento asíncrono mejora la eficiencia en sistemas de alta concurrencia.",1
+"¿A qué hora cierra el súper hoy? Que tengo que pillar leche.",0
+"La minería de datos permite descubrir patrones significativos en grandes datasets.",1
+"pfff, que pereza me da ponerme a cocinar ahora mismo.",0
+"La red neuronal convolucional es la base de la visión por computador moderna.",1
+"Menudo marrón le ha caído a mi jefe con la auditoría.",0
+"El protocolo TCP garantiza que los paquetes lleguen en el orden correcto.",1
+"Mañana nos vemos sin falta, que tengo que contarte una cosa.",0
+"La transformación digital es un imperativo para la competitividad empresarial.",1
+"Tío, eres un máquina, ¡muchas gracias por la ayuda!",0
+"El aprendizaje supervisado depende de la calidad del etiquetado de datos.",1
+"esta mañana me he levantado con un dolor de espalda criminal.",0
+"La infraestructura como código simplifica la gestión de entornos de desarrollo.",1
+"Vaya tela, me han puesto una multa por aparcar mal.",0
+"El internet de las cosas conecta dispositivos físicos a entornos digitales.",1
+"¿Me pasas el número de la pizzería esa tan buena?",0
+"La escalabilidad vertical aumenta la capacidad de un único servidor físico.",1
+"Me piro ya, que si no no llego a ver el inicio de la peli.",0
+"El análisis de sentimientos clasifica textos según su polaridad emocional.",1
+"no veas como estaba la Gran Vía de gente ayer por la tarde.",0
+"La gestión de dependencias previene conflictos entre versiones de librerías.",1
+"¿Sabes si hay huelga de buses mañana por la mañana?",0
+"La biometría es un método seguro de identificación de usuarios finales.",1
+"Joer, qué hambre tengo, me comía un bocata de calamares ahora.",0
+"El cifrado de clave pública utiliza un par de claves matemáticas vinculadas.",1
+"Me e comprado unas zapas nuevas en las rebajas del centro.",0
+"La inteligencia de negocios transforma datos en decisiones estratégicas.",1
+"venga, que ya casi es viernes y nos vamos de fiesta.",0
+"El procesamiento de flujo gestiona datos en tiempo real de forma continua.",1
+"Tengo una resaca que no puedo ni con mi alma, de verdad.",0
+"La arquitectura de software limpia facilita el mantenimiento a largo plazo.",1
+"Oye, dile a Javi que me traiga el libro que le presté.",0
+"El reconocimiento de voz avanzado utiliza modelos de lenguaje de gran escala.",1
+"vaya frío hace hoy, me voy a poner el abrigo gordo.",0
+"La minería de procesos visualiza el flujo real de las operaciones de negocio.",1
+"Me mola mucho tu coche nuevo, está súper bien cuidado.",0
+"El balanceo de carga global distribuye tráfico entre diferentes regiones.",1
+"¿Vale, entonces me llamas tú cuando salgas del curro?",0
+"La arquitectura sin servidor abstrae la gestión de la infraestructura física.",1
+"me parece que se me ha olvidado cerrar la puerta con llave.",0
+"La verificación formal asegura que el sistema cumple con su especificación.",1
+"Mañana voy a por los resultados del análisis, a ver qué tal.",0
+"El aprendizaje por transferencia permite reutilizar modelos en nuevas tareas.",1
+"Hola, ¿en qué puedo asistirle en el día de hoy?",1
+"Buenas, ¿qué pasa contigo tío? ¿cómo vas?",0
+"Estimado usuario, quedo a su entera disposición para cualquier duda.",1
+"venga nos vemos luego q tengo prisa",0
+"Ha sido un placer ayudarle. Que tenga un excelente día.",1
+"¡Holi! ¿qué haces? ¿te vienes a tomar algo?",0
+"Si necesita más información, no dude en contactar conmigo nuevamente.",1
+"buenos dias a todos q tal el finde",0
+"Reciba un cordial saludo y el agradecimiento del equipo técnico.",1
+"hasta lueguito lucas, hablamos por el grupo",0
+"¿Hay alguna otra tarea en la que pueda colaborar con usted?",1
+"Oye, que me piro ya, luego te cuento el drama este.",0
+"Atentamente, el sistema de asistencia automatizado.",1
+"holaaaa como estais todos por aqui",0
+"Esperamos que esta solución sea de su agrado. Un saludo.",1
+"vaya tela q sueño tengo hoy buenos dias",0
+"Gracias por su consulta. Estamos procesando su solicitud.",1
+"chauuuu me voy al gim luego te llamo",0
+"¿Desea que profundice en algún punto específico de la conversación?",1
+"q onda q haces x aqui todavia",0
+"Le deseo una jornada productiva y llena de éxitos.",1
+"ale, a cuidarse, ya nos veremos",0
+"Bienvenido al soporte interactivo. Por favor, espere un momento.",1
+"buenas tardes q tal va ese curro",0
+"Quedo a la espera de sus instrucciones adicionales.",1
+"oye perdona q no te salude antes es que iba empanada",0
+"Le agradecemos su paciencia y le saludamos atentamente.",1
+"venga chao pescaoo nos vemos mañana",0
+"Espero que su experiencia con nuestra plataforma sea satisfactoria.",1
+"ola k ase? vas a bajar al parque o q",0
+"Cualquier otra consulta será bienvenida. Hasta pronto.",1
+"bueno tía me voy ya q llego tarde al médico",0
+"Le envío un cordial saludo y le deseo lo mejor.",1
+"ey q tal todo cuanto tiempo sin verte",0
+"Gracias por utilizar nuestros servicios digitales.",1
+"ta luego, portate bien eh",0
+"Le informamos de que su sesión finalizará en breve. Saludos.",1
+"hola q tal estais todos",0
+"Un placer haberle servido. Cerramos la consulta.",1
+"venga pues nada un besito hablamos",0
+"Buenos días. ¿Cómo puedo facilitar su flujo de trabajo hoy?",1
+"holaaa q tal el viaje ya llegaste",0
+"Muchas gracias por su atención. Saludos cordiales.",1
+"q tal makina como va todo",0
+"Le doy la bienvenida a nuestro canal de comunicación oficial.",1
+"venga un saludo hablamos el lunes",0
+"Agradecemos su interés y esperamos verle de nuevo.",1
+"hey que pasa x donde andas",0
+"Quedamos a su servicio para futuras interacciones.",1
+"buenas noches a descansar q ya toca",0
+"¿En qué puedo serle de utilidad en este momento?",1
+"hasta mañana si dios quiere q descanseis",0
+"Reciba mis más sinceras disculpas por las molestias. Saludos.",1
+"ola q haces te vienes a cenar",0
+"Doy por finalizada la asistencia técnica. Un saludo.",1
+"bueno pues eso q nos vemos pronto un abrazo",0
+"Gracias por su tiempo y por confiar en nosotros.",1
+"q pasa fiera como va la mañana",0
+"Es un honor para mí asistirle en sus tareas diarias.",1
+"venga me voy q ya es hora un beso",0
+"Le saluda el asistente virtual de la entidad.",1
+"hola caracola q tal el dia",0
+"Deseamos que tenga una tarde muy agradable.",1
+"mañana te veo sin falta eh no me falles",0
+"Quedamos a su entera disposición para lo que necesite.",1
+"buenas noches grupo q descanseis todos",0
+"Por favor, hágame saber si puedo ayudarle en algo más.",1
+"hola q tal todo x alli",0
+"Un cordial saludo de parte de todo nuestro equipo.",1
+"venga hasta luego q pases buen dia",0
+"Espero haber resuelto todas sus dudas satisfactoriamente.",1
+"ey q haces q no me contestas al wa",0
+"Le agradezco de antemano su colaboración. Saludos.",1
+"buenas q tal va la tarde",0
+"Gracias por contactarnos. Le atenderemos enseguida.",1
+"bueno pos nada q ya me voy chao",0
+"Reciba un afectuoso saludo de nuestro servicio de atención.",1
+"holaaa q tal la family",0
+"Ha sido un gusto atender su petición.",1
+"venga ciao nos hablamos por aqui",0
+"Bienvenido. ¿Cómo podemos mejorar su experiencia hoy?",1
+"buenas q tal amaneciste",0
+"Esperamos verle de nuevo por aquí muy pronto.",1
+"q pasa tio como va el curro",0
+"Quede con Dios y tenga un feliz día.",1
+"venga hasta lueguito q me voy a comer",0
+"Agradecemos su feedback y le enviamos un saludo.",1
+"ey q tal el finde q hiciste",0
+"Si no tiene más preguntas, procederé a cerrar el chat.",1
+"venga un saludo maquina hablamos",0
+"Le damos las gracias por elegirnos. Saludos.",1
+"hola q tal como va la cosa",0
+"Deseamos que esta información le haya sido de gran ayuda.",1
+"bueno pos eso q te vaya bien el viaje",0
+"Reciba un cordial saludo y nuestro agradecimiento.",1
+"q tal el curro hoy mucha peña",0
+"Quedamos a su disposición para cualquier otra aclaración.",1
+"venga chao q me cierran el super",0
+"Gracias por su preferencia. Hasta la próxima.",1
+"ola como estas hace mucho q no hablamos",0
+"Hello! How may I assist you with your inquiries today?",1
+"sup man, u coming to the pub later?",0
+"It is a pleasure to meet you. Please let me know your requirements.",1
+"hey, sry i'm late, traffic was insane",0
+"I hope you are having a productive morning. How can I help?",1
+"yo! long time no see, how's it hanging?",0
+"Should you require further assistance, do not hesitate to ask.",1
+"morning, u got the notes from yesterday's class?",0
+"Please accept my sincerest apologies for the delay in my response.",1
+"brb, gotta grab a coffee real quick",0
+"Welcome back. I have prepared the summary you requested.",1
+"hey hru? haven't heard from u in ages",0
+"I am at your service. What would you like to do next?",1
+"gonna be a bit late, don't start without me lol",0
+"Thank you for reaching out to our automated support system.",1
+"hi, r u free for a call at 5?",0
+"I wish you a pleasant and successful day ahead.",1
+"dunno what to eat tonight, any ideas?",0
+"It has been an honor assisting you with this task.",1
+"thx for the help m8, i owe u one",0
+"I would be happy to provide more information on this topic.",1
+"yo, did u see the game last night? absolute madness",0
+"Kind regards, the technical support team.",1
+"hey there, just checking in to see if ur okay",0
+"Please let me know if there is anything else I can do for you.",1
+"cya later, have a good one!",0
+"I am programmed to assist with a wide variety of tasks.",1
+"hey, u awake? i need to ask u something",0
+"I look forward to our next interaction. Goodbye.",1
+"wanna hang out this weekend? i'm bored af",0
+"I am ready to begin the process whenever you are.",1
+"hiii, so glad u made it to the party!",0
+"May I suggest an alternative solution to your problem?",1
+"gtg, my bus is here, talk later",0
+"It is vital to ensure all parameters are correct before starting.",1
+"hey, u still got my charger or did i leave it at josh's?",0
+"I appreciate your patience while I process this request.",1
+"sup, u guys started the movie yet?",0
+"I am sorry, but I do not have the authorization for that.",1
+"omg u won't believe what happened at work today",0
+"Good evening. How has your experience been so far?",1
+"laters, don't do anything i wouldn't do haha",0
+"I am dedicated to providing accurate and helpful information.",1
+"hey, u busy? need a hand with this box",0
+"Thank you for your cooperation during this procedure.",1
+"morning sunshine! ready for the big day?",0
+"Please refer to the documentation for further instructions.",1
+"hey, did u get my email? my internet is acting up",0
+"I hope this information proves useful for your project.",1
+"catch u on the flip side!",0
+"How can I make your day easier through my functions?",1
+"hey, u coming to the gym or what?",0
+"I remain at your disposal for any future queries.",1
+"idk man, seems like a bad idea to me",0
+"It is my primary goal to facilitate your daily operations.",1
+"hi! just wanted to say thx for the gift",0
+"Please confirm if you would like to proceed with the update.",1
+"yo, u seen my keys? i'm losing my mind here",0
+"I am here to help you navigate this system efficiently.",1
+"hey, u still up for that beer later?",0
+"I wish you the best of luck with your current endeavors.",1
+"sry i missed ur call, was in the shower",0
+"Thank you for your time. Have a wonderful afternoon.",1
+"sup, u got a sec to talk about the trip?",0
+"I am analyzing the data to provide the best possible outcome.",1
+"hey u! haven't seen u around here lately",0
+"Please accept this as a formal notification of completion.",1
+"nvm, i found it, thx anyway",0
+"How may I be of service to you at this moment?",1
+"morning! hope u slept well",0
+"I am constantly learning to better serve your needs.",1
+"hey, tell ur brother i said hi",0
+"Your feedback is highly valued by our development team.",1
+"yo, can u lend me 5 bucks? i'll pay u back tomorrow",0
+"It is a pleasure to witness your progress with this tool.",1
+"hi, just got home, talk tomorrow?",0
+"I am optimizing the response for better clarity and speed.",1
+"hey, r u guys still at the bar?",0
+"I hope you find the following suggestions helpful.",1
+"cya, take it easy!",0
+"I am equipped to handle multiple requests simultaneously.",1
+"sup, u coming to the wedding next week?",0
+"Thank you for choosing our AI-powered assistant.",1
+"hey, i'm outside, can u let me in?",0
+"I am happy to assist you with any further questions.",1
+"hi, just wanted to check if u got home safe",0
+"I am programmed to be polite and professional at all times.",1
+"yo, u got the wifi password?",0
+"I hope you have an enjoyable and relaxing evening.",1
+"hey, u wanna go for a run tomorrow morning?",0
+"Please let me know if you require any additional support.",1
+"thx, u r the best!",0
+"I am here to ensure your experience is as smooth as possible.",1
+"morning, did u see the news this morning? crazy stuff",0
+"I remain available should you need further clarification.",1
+"hey, can u send me the link again?",0
+"I am delighted to be of help to you today.",1
+"yo, i'm starving, lets get some food",0
+"Goodbye. It was a pleasure assisting you today.",1
+"hey, u free to chat? i'm feeling a bit down",0
+"¡¡¡¡Pero bueno!!!! ¿¿¿¿Viste eso???? 😱😱😱",0
+"El índice de inflación aumentó un 3.5% en el último trimestre fiscal.",1
+"Tengo 3 tíos, 2 primos y como 500 problemas ahora mismo xd",0
+"La temperatura operativa del procesador es de 75°C bajo carga máxima.",1
+"¿¿Me pasas el link?? es que no lo encuentro x ningun lado :S",0
+"El presupuesto total asciende a 1.250,50€ incluyendo el IVA del 21%.",1
+"compré 3 de pan y 2 de leche, total 5.50 pavos, carisimo todo",0
+"Se ha detectado un error 404 en la dirección IP 192.168.1.254.",1
+"!!!! No me digas q perdimos 4-0 !!!! no me lo creo",0
+"La probabilidad de éxito del algoritmo se estima en un 0.9827.",1
+"tengo -5 euros en la cuenta ahora mismo... q triste todo :(",0
+"El protocolo utiliza un cifrado de 256 bits para mayor seguridad.",1
+"¿?¿? q es esto ¿?¿? me sale un error raro con muchos #######",0
+"La relación de aspecto de la imagen es de 16:9 con una resolución 4K.",1
+"mis notas: 5, 7, 4 y un 9 en mates!!! x fin apruebo",0
+"El tiempo estimado de descarga es de 2h 45m 12s a una velocidad de 50Mbps.",1
+"solo tengo el 2% de bateria... si me apago ya sabes xq es",0
+"El sistema requiere un mínimo de 16GB de RAM y 500GB de SSD.",1
+"te mandé 50€ x Bizum, confirmame si te llegó o k",0
+"La densidad de población es de 150.34 habitantes por km².",1
+"¡¡¡CUIDADO!!! hay 1000 personas en la cola ahora mismo",0
+"El valor de la constante pi es aproximadamente 3.14159265.",1
+"compré el movil x 300€ y ahora vale 250... q rabia me da",0
+"Actualizando paquete 1 de 15... [##########----------] 50%",1
+"¿te hace un 2x1 en el burguer hoy? tengo un cupon",0
+"La tasa de refresco del monitor es de 144Hz con un tiempo de respuesta de 1ms.",1
+"estoy al 100% con este proyecto, vamos con todo!!!!!!",0
+"El código de error de la API es el 0x8004210B, consulte el manual.",1
+"me debes 15,50 pavos de la cena + 3 del parking, osea 18.50",0
+"Se ha aplicado un descuento del 15% mediante el código PROMO2026.",1
+"¿¿¿¿q pasa con el wifi???? va a 0.5 megas, q asco",0
+"El diámetro del tornillo es de 5mm con una tolerancia de +/- 0.01mm.",1
+"mi tlf es +34 600 000 000 llamame a las 20:00h",0
+"La cuota de mercado de la empresa subió del 12% al 18.5% en un año.",1
+"!!!! feliz cumple !!!! ya son 30 tacos colega",0
+"Iniciando secuencia de arranque... [OK] 127.0.0.1 conectado.",1
+"son las 3 de la mñana y no puedo dormir... pfff",0
+"El rendimiento por vatio ha mejorado un 25% respecto a la generación anterior.",1
+"¿viste el video? dura como 1h y 20 min, un poco largo no?",0
+"Se han encontrado 1,243 resultados en 0.0056 segundos.",1
+"necesito 1/2 kilo de carne y 1/4 de queso, mandame el ticket",0
+"El ángulo de inclinación es de 45° con respecto al eje horizontal.",1
+"!!!! q fuerte lo de sara !!!! 10/10 el drama de hoy",0
+"La capacidad del tanque es de 50L, consumiendo 5.5L/100km.",1
+"hola? hay alguien? he esperado 10 mins y nada :(",0
+"La velocidad de la luz en el vacío es de 299,792,458 m/s.",1
+"tengo 40 de fiebre... me encuentro fatal :( :( :(",0
+"La base de datos contiene 10,000,000 de registros indexados.",1
+"¿cuanto es 2+2? es q estoy fatal hoy de la cabeza jajaja",0
+"El voltaje de entrada debe ser de 220V-240V AC a 50Hz.",1
+"la verdá es q no entiendo pq me dices eso ahora",0
+"El sistema ha completado la migración de la base de datos con éxito.",1
+"oye tío pásame el contacto del electricista q tengo un corto",0
+"La optimización de los hiperparámetros mejora el rendimiento del modelo.",1
+"me cago en diez otra vez me he dejado las llaves",0
+"Se requiere una clave de API válida para acceder a este recurso.",1
+"¿vale entonces quedamos en el bar de la esquina a las 9?",0
+"El aprendizaje por refuerzo se basa en una función de recompensa escalar.",1
+"ni de coña voy yo allí con la que está cayendo fuera",0
+"La arquitectura de microservicios permite una escalabilidad horizontal eficiente.",1
+"buenos dias... alguien sabe si hay huelga de metro?",0
+"Para proceder, debe aceptar los términos y condiciones de uso.",1
+"estoy flipando con el final de la serie no me lo esperaba",0
+"El procesamiento de lenguaje natural analiza estructuras sintácticas complejas.",1
+"me das un café con leche y un croasán porfa?",0
+"La red neuronal convolucional es ideal para el procesamiento de imágenes.",1
+"vaya tela con el jefe hoy está de un humor de perros",0
+"Se ha detectado un acceso no autorizado desde una dirección IP externa.",1
+"¿te hace un pádel este finde o qué?",0
+"La computación cuántica utiliza cúbits para realizar cálculos paralelos.",1
+"mañana empiezo la dieta ahora si q sí",0
+"El despliegue continuo automatiza la entrega de software a producción.",1
+"lo siento x contestar tarde estaba en el gym",0
+"La latencia de la red afecta significativamente a la experiencia del usuario.",1
+"¿has visto mis llaves? no las encuentro x ningún lao",0
+"Se recomienda realizar copias de seguridad de forma periódica.",1
+"joer q sueño tengo hoy no he pegao ojo",0
+"La inteligencia artificial generativa crea contenido basado en patrones de datos.",1
+"me voy al sobre q mañana madrugo mazo",0
+"El protocolo HTTPS garantiza la confidencialidad de la información transmitida.",1
+"¿me dejas 5 pavos? te los pago luego x bizum",0
+"La normalización de datos reduce la redundancia en el esquema relacional.",1
+"venga va no seas rancio y vente un rato",0
+"El análisis predictivo utiliza datos históricos para anticipar tendencias futuras.",1
+"pfff q pereza me da ponerme a estudiar ahora",0
+"La interfaz de usuario ha sido optimizada para dispositivos móviles.",1
+"ola k tal todo? hace mil q no hablamos",0
+"El almacenamiento en la nube proporciona alta disponibilidad y redundancia.",1
+"vaya chufa de peli no la veas es un tostón",0
+"Se ha implementado un sistema de autenticación de dos factores.",1
+"me mola mazo tu coche nuevo donde lo has pillao",0
+"La minería de datos permite extraer conocimiento de grandes volúmenes de información.",1
+"no te ralles tío q eso no tiene importancia",0
+"La infraestructura como código facilita la gestión de entornos de servidor.",1
+"mañana te paso las fotos q ahora no tengo wifi",0
+"El reconocimiento de voz utiliza modelos probabilísticos avanzados.",1
+"¿nos tomamos una caña al salir del curro?",0
+"La transformación digital es esencial para la competitividad de la empresa.",1
+"me he puesto fino de comer en casa de mi abuela",0
+"El balanceo de carga distribuye el tráfico entre varios nodos activos.",1
+"hostia q se me ha olvidao el cumple de mi madre",0
+"La realidad aumentada superpone elementos digitales al mundo físico.",1
+"bueno pos nada q ya nos veremos",0
+"El aprendizaje supervisado requiere un conjunto de datos debidamente etiquetado.",1
+"vaya frío hace hoy me voy a poner el plumas",0
+"La cadena de bloques garantiza la inmutabilidad de los registros digitales.",1
+"¿sabes si hay pan del día en el chino?",0
+"El procesamiento de flujo gestiona datos en tiempo real de manera continua.",1
+"me piro ya q si no pierdo el bus",0
+"La virtualización permite ejecutar múltiples sistemas operativos en un solo host.",1
+"¿q haces? yo aquí aburrido en casa",0
+"El cifrado de extremo a extremo protege la privacidad de las comunicaciones.",1
+"oye me pasas el número de javi? q lo he perdido",0
+"La inteligencia de negocios transforma datos en decisiones estratégicas.",1
+"vaya pedazo de gol ha metido el madrid",0
+"La arquitectura sin servidor abstrae la gestión de la infraestructura subyacente.",1
+"mañana voy a madriz a ver a unos colegas",0
+"El protocolo TCP asegura la entrega ordenada de los paquetes de datos.",1
+"estoy hasta el moño de este ordenador va fatal",0
+"La biometría facial es un método común de control de acceso.",1
+"¿te apuntas a un kebab luego?",0
+"El análisis de sentimientos clasifica textos según su carga emocional.",1
+"me e dejado el paraguas en el tren q desastre",0
+"La ingeniería social es una técnica de manipulación para obtener datos confidenciales.",1
+"venga un beso hablamos mañana",0
+"El diseño responsivo adapta la web a diferentes resoluciones de pantalla.",1
+"no veas q jaleo hay en el centro con las rebajas",0
+"La computación en el borde reduce la carga en los centros de datos centrales.",1
+"¿me puedes hacer un favorcillo?",0
+"El despliegue de microservicios mejora la agilidad del ciclo de desarrollo.",1
+"me voy a echar la siesta q estoy reventao",0
+"La verificación en dos pasos es una medida de seguridad altamente recomendada.",1
+"¿qué tal te fue el examen de conducir?",0
+"El aprendizaje no supervisado busca estructuras inherentes en los datos.",1
+"vaya tela con el precio de la gasolina",0
+"La gestión de dependencias previene conflictos entre versiones de software.",1
+"nos vemos en la puerta del sol a las 8",0
+"El reconocimiento de patrones es fundamental en la visión artificial.",1
+"me mola mucho tu rollo",0
+"La escalabilidad vertical implica aumentar los recursos de un servidor existente.",1
+"oye as visto mi cargador por ahí?",0
+"El procesamiento por lotes es eficiente para manejar tareas de larga duración.",1
+"vaya chollazo he encontrado en el rastro",0
+"La segmentación de red mejora la seguridad al aislar diferentes entornos.",1
+"mañana te veo sin falta eh",0
+"El protocolo MQTT es ideal para la comunicación entre dispositivos IoT.",1
+"estoy flipando con lo que me has dicho",0
+"La integridad referencial asegura la coherencia entre tablas relacionadas.",1
+"venga chao ya hablamos",0
+"El ajuste de hiperparámetros es un proceso iterativo en el entrenamiento.",1
+"le dije a mi jefe que no llegaba y le dio igual, un cuadro tú",0
+"La integración de sistemas legados requiere un mapeo de datos exhaustivo.",1
+"mañana te cuento lo de javi q es muy fuerte",0
+"El aprendizaje por transferencia permite reutilizar modelos preentrenados.",1
+"¿vale entonces quedamos en el retiro a las seis?",0
+"Se ha detectado una vulnerabilidad de día cero en el componente del kernel.",1
+"vaya tela con el precio de los alquileres, es de locos",0
+"La computación sin servidor escala automáticamente según la demanda de tráfico.",1
+"oye pues al final no voy a poder ir, me ha surgido un jaleo",0
+"El protocolo de enlace de tres vías establece una conexión TCP fiable.",1
+"me da a mi que esto no va a salir bien ni de coña",0
+"La normalización de la base de datos elimina la redundancia de información.",1
+"buenos dias... alguien sabe dnd estan las llaves del garaje?",0
+"El procesamiento de flujo permite analizar datos en movimiento de forma continua.",1
+"me voy al sobre q no puedo con mi alma",0
+"Se requiere un certificado SSL válido para asegurar la comunicación web.",1
+"¿me pasas el bizum de ayer? que se me olvida fijo",0
+"La inteligencia artificial explicable busca hacer los modelos más transparentes.",1
+"estoy hasta las narices del vecino y su musiquita",0
+"El balanceo de carga de capa 7 permite una distribución basada en contenido.",1
+"la verdá es q me da un poco de pereza el plan",0
+"Se ha implementado una política de contraseñas con rotación obligatoria.",1
+"venga va no te rayes q ya veras como sale bien",0
+"El entrenamiento del modelo se ha detenido tras 50 épocas sin mejora.",1
+"mañana te veo sin falta, no me seas rancio eh",0
+"La arquitectura de software limpia separa la lógica de negocio del framework.",1
+"no veas como mola el nuevo restaurante de la esquina",0
+"El reconocimiento de voz utiliza redes neuronales recurrentes de largo plazo.",1
+"¿te apuntas a un padel luego a las 8?",0
+"La segmentación de red previene el movimiento lateral de posibles amenazas.",1
+"pfff q sueño tengo hoy, me he levantado con el pie izquierdo",0
+"El despliegue de la infraestructura se gestiona mediante plantillas de Terraform.",1
+"me e dejado el movil en el vips, soy un desastre",0
+"La minería de procesos identifica ineficiencias en los flujos operativos.",1
+"oye pasame el contacto de la pelu que vas tu siempre",0
+"Se ha configurado un disparador para ejecutar el script de forma automática.",1
+"mañana me paso por el gym a ver si me apunto",0
+"La virtualización de funciones de red mejora la agilidad de los servicios.",1
+"¿sabes si el mercadona abre hoy? que es festivo",0
+"El almacenamiento distribuido ofrece resiliencia ante fallos de nodos.",1
+"me piro ya q si no no llego ni de coña",0
+"La lógica difusa es útil en sistemas de control con variables imprecisas.",1
+"¿q haces? yo aqui viendo una peli mas aburrida...",0
+"El cifrado de clave simétrica es eficiente para grandes volúmenes de datos.",1
+"vaya pedazo de coche se ha pillao tu primo",0
+"La inteligencia de negocios proporciona una visión holística del desempeño.",1
+"estoy flipando con el video q me has pasao",0
+"La escalabilidad horizontal permite añadir más instancias al grupo de autoescalado.",1
+"mañana voy a por el pan y pillo algo para cenar",0
+"El protocolo MQTT utiliza una arquitectura de publicación y suscripción.",1
+"no ralles mas con eso, q ya sabemos lo q hay",0
+"La validación cruzada estima la capacidad de generalización del algoritmo.",1
+"venga un saludo hablamos el lunes sin falta",0
+"Se ha denegado el acceso al recurso debido a permisos insuficientes.",1
+"me mola mazo tu chaqueta, ¿donde te la has pillao?",0
+"La latencia de red es un parámetro fundamental en aplicaciones de tiempo real.",1
+"oye as visto mi cargador? no lo encuentro x ningun lao",0
+"El aprendizaje no supervisado agrupa datos basándose en su similitud.",1
+"vaya chufa de comida nos han puesto hoy",0
+"Se ha actualizado el firmware del dispositivo para corregir errores críticos.",1
+"mañana te paso las fotos q ahora no tengo bateria",0
+"La ingeniería de características es crucial para el éxito del modelo final.",1
+"¿nos tomamos una caña rapida al salir?",0
+"La transformación digital impulsa la innovación en todos los sectores.",1
+"me he puesto ciego a comer croquetas, que ricas",0
+"El balanceo de carga global redirige el tráfico al centro de datos más cercano.",1
+"hostia q se me ha pasado llamarte, perdona",0
+"La realidad mixta integra objetos virtuales en el mundo físico real.",1
+"bueno pos ya hablamos mañana si eso",0
+"El aprendizaje supervisado utiliza pares de entrada y salida para entrenar.",1
+"vaya frio hace en madrid hoy, no se puede salir",0
+"La cadena de bloques asegura que los datos no puedan ser modificados.",1
+"¿sabes si hay huelga de buses hoy?",0
+"El procesamiento por lotes gestiona grandes cantidades de datos históricos.",1
+"me voy al curro ya q llego tarde fijo",0
+"La virtualización de servidores optimiza el uso del hardware físico.",1
+"¿q haces? yo aqui tirado en el sofa",0
+"El cifrado asimétrico utiliza una clave pública y otra privada vinculadas.",1
+"vaya golazo ha metido el atleti ayer",0
+"La arquitectura sin servidor permite centrarse únicamente en el código.",1
+"mañana voy al centro a comprarme unas zapas",0
+"El protocolo TCP garantiza que no se pierdan paquetes durante la carga.",1
+"estoy hasta arriba de curro, no me da la vida",0
+"La biometría de iris ofrece una precisión superior en la identificación.",1
+"¿te hace una pizza luego?",0
+"El análisis de sentimientos determina si una opinión es positiva o negativa.",1
+"me e dejado las llaves puestas, soy un lince",0
+"La ingeniería social es el eslabón más débil de la cadena de seguridad.",1
+"venga un beso ya nos vemos",0
+"El diseño responsivo utiliza rejillas fluidas y consultas de medios.",1
+"no veas q cola habia en el primark",0
+"La computación en la niebla acerca el procesamiento al usuario final.",1
+"¿me haces un favor y me pasas el archivo?",0
+"El ciclo de vida del desarrollo de software incluye la fase de despliegue.",1
+"me voy a sobar q mañana hay q madrugar",0
+"La autenticación multifactor es necesaria para accesos administrativos.",1
+"¿que tal te fue el viaje a valencia?",0
+"El aprendizaje profundo utiliza múltiples capas de neuronas artificiales.",1
+"vaya tela con la que está cayendo fuera de agua",0
+"La gestión de paquetes facilita la instalación de librerías externas.",1
