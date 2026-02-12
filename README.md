@@ -14,13 +14,20 @@ Educative project about:
 ```bash
 git clone https://github.com/iRuperth/machine_learning_pipeline.git
 cd ai-vs-human-detector
-pip install -r requirements.txt
+uv venv
+uv pip install -r requirements.txt
+source .venv/Scripts/activate 
 ```
 
 To train the model, run:
 ```bash
 cd model
 uv run python model/train_model.py
+```
+
+in windows.
+```bash
+uv run train_model.py
 ```
 
 To run the API, run:
