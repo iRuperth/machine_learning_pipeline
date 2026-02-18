@@ -11,7 +11,7 @@ on:
 
 jobs:
   test-and-build:
-    # Le pedimos a GitHub una máquina virtual con Linux (Ubuntu) para que haga automatice el proceso.
+    # Le pedimos a GitHub una máquina virtual con Linux (Ubuntu) para que haga automatice el proceso!
     runs-on: ubuntu-latest
 
     steps:
