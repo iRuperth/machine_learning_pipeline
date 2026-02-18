@@ -24,7 +24,7 @@ source .venv/Scripts/activate
 To train the model, run:
 ```bash
 cd model
-uv run python train_model.py
+uv run python model_training.py
 
 ```
 
