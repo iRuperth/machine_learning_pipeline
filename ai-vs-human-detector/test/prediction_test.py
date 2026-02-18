@@ -1,14 +1,12 @@
-import requests
+from fastapi.testclient import TestClient
+from api.main import app  
 
-url = "http://127.0.0.1:8000/predict"
+client = TestClient(app)
 
-params = {"text": "Este es un texto escrito por un humano"}
-
-response = requests.post(url, params=params)
-
-if response.status_code == 200:
-    print("success:")
-    print(response.json())
-else:
-    print(f"Error {response.status_code}:")
-    print(response.text) 
+def test_predict_endpoint():
+    response = client.post("/predict?text=Este es un texto escrito por un humano")
+    
+    assert response.status_code == 200
+    data = response.json()
+    assert "prediction" in data
+    assert "confidence" in data
