@@ -30,6 +30,7 @@ jobs:
       # Si un test falla, el proceso se detiene aquí y nos avisa.
       - name: Install dependencies and run tests
         run: |
+          cd ai-vs-human-detector
           uv sync
           uv run pytest test/
 
@@ -43,6 +44,6 @@ jobs:
       - name: Build Docker image
         uses: docker/build-push-action@v5
         with:
-          context: .
+          context: ai-vs-human-detector
           push: false
           tags: ai-human-classifier:latest
