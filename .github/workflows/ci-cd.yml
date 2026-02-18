@@ -32,6 +32,7 @@ jobs:
         run: |
           cd ai-vs-human-detector
           uv sync
+          uv pip install pytest httpx
           uv run pytest test/
 
       # Prepara las herramientas para construir imágenes de Docker/

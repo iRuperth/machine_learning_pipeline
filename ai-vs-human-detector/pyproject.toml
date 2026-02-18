@@ -13,10 +13,13 @@ dependencies = [
     "numpy",
     "pickle-mixin",
     "requests",
-    "jinja2"
+    "jinja2",
+    "pytest>=9.0.2",
+    "httpx>=0.27.0",
 ]
 
 [dependency-groups]
 dev = [
     "pytest>=9.0.2",
+    "httpx>=0.27.0",
 ]
