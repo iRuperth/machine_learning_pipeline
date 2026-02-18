@@ -9,7 +9,9 @@ Educative project about:
 93.33% accuracy
 
 94.12% accuracy because we added more data to the dataset.
-
+```bash
+source .venv/bin/activate
+```
 
 ```bash
 git clone https://github.com/iRuperth/machine_learning_pipeline.git
@@ -22,7 +24,8 @@ source .venv/Scripts/activate
 To train the model, run:
 ```bash
 cd model
-uv run python model/train_model.py
+uv run python train_model.py
+
 ```
 
 in windows.
@@ -32,7 +35,6 @@ uv run train_model.py
 
 To run the API, run:
 ```bash
-cd api
 uv run uvicorn api.main:app --reload
 ```
 
