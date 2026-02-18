@@ -41,4 +41,4 @@ print(f"Accuracy: {acc:.2%}")
 with open(MODEL_OUTPUT, "wb") as f:
     pickle.dump(model, f)
 
-print("Modelo guardado")
+print("Saved model")

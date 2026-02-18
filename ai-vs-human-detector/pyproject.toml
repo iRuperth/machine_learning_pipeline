@@ -1,0 +1,17 @@
+[project]
+name = "ai-vs-human-detector"
+version = "0.1.0"
+description = "AI vs Human text detector"
+readme = "README.md"
+requires-python = ">=3.10"
+
+dependencies = [
+    "fastapi",
+    "uvicorn",
+    "scikit-learn",
+    "pandas",
+    "numpy",
+    "pickle-mixin",
+    "requests",
+    "jinja2"
+]
