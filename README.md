@@ -10,6 +10,8 @@ Educative project about:
 
 94.12% accuracy because we added more data to the dataset.
 
+95.88% accuracy because we added more data to the dataset.
+
 
 ```bash
 source .venv/bin/activate
@@ -32,7 +34,7 @@ uv run python model_training.py
 
 in windows.
 ```bash
-uv run train_model.py
+uv run model_training.py
 ```
 
 To run the API, run:
@@ -65,7 +67,7 @@ docker build -t ai-human-classifier:v1 .
 ```
 
 ```bash
-docker run -p 8000:8000 ai-human-classifier:v1
+docker run -p 8000:8000 ai-human-classifier:v1 
 ```
 
 
